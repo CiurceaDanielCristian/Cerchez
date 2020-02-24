@@ -1,5 +1,5 @@
 /*Fie n un numar natural nenul. Sa se afiseze pe ecran o secventa de lungime n, 
-construita dupa procedeul ilustart mai jos:
+construita dupa procedeul ilustrat mai jos:
 -daca n=6 secventa afisata este: 123321;
 -daca n=7 secventa afisata este: 1234321;
 */
